@@ -43,4 +43,4 @@ jobs:
         registry: docker.io
         dockerfile: Dockerfile
         username: angelinasss
-        password: lab_work6
+        password: 18062003a
